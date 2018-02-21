@@ -11,7 +11,7 @@ This dataset consists of RGB and segmentation images that depict 12 different sc
 ### Download the data
 - [RGB images](https://drive.google.com/open?id=12za3F-GqXGXVYkHGrbbK8NdaNLUow3pi)
 - [Segmentation images](https://drive.google.com/open?id=1RL_LDZckXLKA27EcyHfOopmZzT0jNMxB)
-- [Calsses](https://drive.google.com/open?id=1wVE1qkP_h2pYVpvMBtOwP-GbEsFz0uTE) and [class color descriptions](https://drive.google.com/open?id=12Bogj36gLoIyWfEr_Cp9-Nl1ZChlsItK)
+- [Class labels(txt)](https://drive.google.com/open?id=1wVE1qkP_h2pYVpvMBtOwP-GbEsFz0uTE) and [class color descriptions(txt)](https://drive.google.com/open?id=12Bogj36gLoIyWfEr_Cp9-Nl1ZChlsItK)
 
 
 ### Citations
