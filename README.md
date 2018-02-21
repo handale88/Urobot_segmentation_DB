@@ -8,6 +8,12 @@ This dataset consists of RGB and segmentation images that depict 12 different sc
 ![An example of segmentation dataset](./examples.png) 
 
 
+### Download the data
+- RGB images
+- Segmentation images
+- Calsses and class color descriptions
+
+
 ### Citations
 If you use the Urobot_segmentation_DB in your work, please cite it as:
 
